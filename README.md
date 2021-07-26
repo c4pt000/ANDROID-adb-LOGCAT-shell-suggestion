@@ -1,0 +1,1 @@
+# ANDROID-adb-shell-suggestion
